@@ -19,8 +19,8 @@ print(type(pi))
 operators:
 a = 5
 b = 2
-print(a + b)       # Addition operator
-print(a > b)       # Comparison operator
+print(a + b)     
+print(a > b)      
 
 
 
@@ -34,3 +34,10 @@ elif num == 0:
 else:
     print("Positive")
 
+dictionary :
+# Creating and accessing a dictionary
+student = {"name": "Alice", "age": 20, "grade": "A"}
+
+print("Name:", student["name"])
+print("Age:", student["age"])
+print("Grade:", student["grade"])
