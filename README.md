@@ -1,1 +1,1 @@
-the tasks given in my intership at vips tech 
+the tasks given in my intership (full stack )at vips tech 
