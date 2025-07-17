@@ -1,0 +1,36 @@
+loop with break :
+for i in range(5):
+    if i == 3:
+        break
+    print(i)
+
+
+
+variable and dtype:
+name = "Alice"           
+pi = 3.14               
+
+print(type(name))        
+print(type(pi))          
+
+
+
+
+operators:
+a = 5
+b = 2
+print(a + b)       # Addition operator
+print(a > b)       # Comparison operator
+
+
+
+if else elif:
+
+num = 10
+if num < 0:
+    print("Negative")
+elif num == 0:
+    print("Zero")
+else:
+    print("Positive")
+
