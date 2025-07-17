@@ -1,1 +1,1 @@
-the task given in my intership at vips tech 
+the tasks given in my intership at vips tech 
