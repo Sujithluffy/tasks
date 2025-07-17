@@ -1,0 +1,70 @@
+1. Internal CSS Example:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    h1 {
+      color: red;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>This is a Heading</h1>
+</body>
+</html>
+      
+op:
+        This is a Heading
+
+
+
+2. external CSS Example:
+
+css
+p {
+  color: blue;
+  font-size: 18px;
+}
+ html
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p>This is a paragraph.</p>
+</body>
+</html>
+
+         op:
+            This is a paragraph.
+
+
+
+
+3. inline css
+<p style="color: green; font-weight: bold;">This is inline styled text.</p>
+
+        op:
+           This is inline styled text.
+
+
+4. hr and br tag
+
+hr:
+<p>Above Line</p>
+<hr>
+<p>Below Line</p>
+                    op:
+                       Above Line
+-------------------------
+Below Line
+
+
+
+<p>Hello<br>World</p>
+                   op:
+                      Hello
+World
